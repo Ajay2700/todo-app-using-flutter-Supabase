@@ -251,17 +251,6 @@ The app includes comprehensive error handling and validation:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Supabase for the excellent backend services
-- Firebase for reliable cloud messaging
-- Material Design team for the design system
-
----
 
 **Built with ❤️ using Flutter, Supabase, and Firebase**
