@@ -2,6 +2,11 @@
 
 A professional, feature-rich Todo Reminder application built with Flutter, Supabase, and Firebase. This app provides a complete solution for managing personal todos with smart notifications and cloud synchronization.
 
+
+https://github.com/user-attachments/assets/d7ebbf93-ec8a-4782-b902-4efbd8c6afa9
+
+Uploading WhatsApp Video 2025-09-07 at 17.36.20_612347e4.mp4…
+
 ## ✨ Features
 
 ### 🔐 Authentication
